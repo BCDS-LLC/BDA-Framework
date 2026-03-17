@@ -1,0 +1,13 @@
+site_name: BDA Framework v2.0
+site_description: The Business Decision Architecture Framework by BC-DS
+site_author: Business Consultants for Digital Solutions, LLC
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+nav:
+  - Home: index.md
+  - The Framework: framework-overview.md
+  - UCADE Cycle: ucade-cycle.md
+  - Decisiontect: decisiontect.md
