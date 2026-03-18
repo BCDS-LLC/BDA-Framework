@@ -8,6 +8,6 @@ theme:
     accent: blue
 nav:
   - Home: index.md
-  - The Framework: framework-overview.md
-  - UCADE Cycle: ucade-cycle.md
-  - Decisiontect: decisiontect.md
+  - The Framework: BDA_Framework_v2.md
+  - Appendix B (OCA): BDA_v2_Appendix_B_OCA.md
+  - Decisiontect: BDA_Appendix_C_Decisiontect.md
