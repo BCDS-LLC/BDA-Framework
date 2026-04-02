@@ -76,7 +76,7 @@ teaching, or development of Business Decision Architecture:
 
   Governance Thermostat                 Open disciplinary concept
 
-  AI-Enhanced Collective Wisdom         Open disciplinary concept
+  AI-Enhanced Collective Wisdom         Open disciplinary term — builds on established collective intelligence research (Woolley, Malone)
 
   Strategic Friction                    Open disciplinary concept
 
@@ -126,15 +126,12 @@ respective owners.
 # Author Contributions
 
 **Daniel Montero, System Designer and Co-Founder.** Designed the
-conceptual architecture of the discipline: the identification of
-Business Decision Architecture as a distinct field, the three-layer
+conceptual architecture of the discipline: the identification of Business Decision Architecture as a distinct organizational governance layer, the three-layer
 system model (open framework, proprietary platform, governed
 practitioner ecosystem), and the commercial architecture of Convoking4™
 as the platform implementation.
 
-**Monica Hernandez, System Designer, PMP, and Co-Founder.** Designed the
-operational mechanics of the discipline: the Dual Lens discipline
-(Forecasting and Backcasting), the UADT cycle and its evolution into the
+**Monica Hernandez, System Designer, PMP, and Co-Founder.** Integrated and operationalized established strategic practices into the framework's mechanics: adapting Forecasting and Backcasting into the proprietary Dual Lens protocol, the UADT cycle and its evolution into the
 current UCADE model, the ADICE Matrix as a consequence-ownership
 accountability framework, and the Decisiontect™ practitioner ecosystem.
 All operational mechanisms were developed and validated through direct
@@ -1806,8 +1803,7 @@ mechanisms exist to enforce.
 
 The Dual Lens was validated through Monica Hernandez's direct practice
 directing complex digital transformation projects — applied at both
-ends of the organizational altitude problem before it was formally named
-as a discipline.
+ends of the organizational altitude problem before it was formalized into this framework's architecture.
 
 **Grounding Product Owners and Sponsors.** Product owners and executive
 sponsors naturally operate through the Backcasting Lens. As Opportunity
@@ -4352,6 +4348,9 @@ the machine to challenge the assumptions of the human, and the judgment
 of the human to provide the context the machine cannot supply.
 
 Understand. Communicate. Align. Decide. Evolve.
+
+
+> **Foundational Concepts Predating This Framework:** The concepts of Backcasting (reverse-engineering paths from a desired future state), Forecasting, and the broad field of Decision and Choice Architecture predate this framework and are not claimed as inventions of BC-DS, Daniel Montero, or Monica Hernandez. Backcasting has roots in futures studies (Robinson, 1982; Dreborg, 1996); Choice Architecture was formalized by Thaler and Sunstein (2008); the principle of examining a problem through two opposing perspectives has precedents across strategic planning and cognitive science literature. The BDA and SDA frameworks integrate, structure, and operationalize these established concepts into a governed protocol specifically for AI-augmented organizational and individual decision governance. The original contribution of these frameworks is their structural integration — not the invention of the base concepts they draw from.
 
 # Appendix A: The Evolution of Business Decision-Making
 
