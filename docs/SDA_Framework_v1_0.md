@@ -198,9 +198,7 @@ The translation from organizational to individual altitude required
 developing instruments not present in the BDA: the Raw Thinking capture
 protocol, the Stage 1/Stage 2 AI boundary, the Dual Lens Diagnostic
 Instruments, and the Expected Impact node as translation point between
-private commitment and public architecture. These are not adaptations.
-They are original contributions to the methodology, developed and
-validated through my professional practice.
+private commitment and public architecture. While built on established cognitive principles, the structural integration of these instruments into a governed human–AI protocol is an original contribution to the methodology — developed and validated through my professional practice.
 
 
 ### Movement 3 — Why This Moment Specifically
