@@ -9,12 +9,13 @@
 
 The organizational layer of Decision Architecture. Governs the structural conditions under which consequential decisions are made — including the UCADE Cycle, the ADICE Matrix, Strategic Friction, and the Three Organizational Altitudes.
 
-* [📖 Read Online](https://bda-framework.bc-ds.com/)
+* [📖 Read Online](https://frameworks.bc-ds.com/)
 * [💻 View Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_Framework_v2.md)
+* [📄 View/Download PDF](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/pdfs/BDA_Framework_v2_1.pdf)
 
 **Appendices:**
-* [Appendix B — Organizational Translation Architecture (OCA)](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_v2_Appendix_B_OCA.md)
-* [Appendix C — The Decisiontect™ Ecosystem](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_Appendix_C_Decisiontect.md)
+* **Appendix B — Organizational Translation Architecture (OCA):** [Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_v2_Appendix_B_OCA.md) | [PDF](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/pdfs/BDA_v2_1_Appendix_B.pdf)
+* **Appendix C — The Decisiontect™ Ecosystem:** [Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_Appendix_C_Decisiontect.md) | [PDF](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/pdfs/BDA_v2_1_Appendix_C.pdf)
 
 ---
 
@@ -23,8 +24,9 @@ The organizational layer of Decision Architecture. Governs the structural condit
 
 The individual layer of Decision Architecture. Governs the moment of personal commitment before it enters any organizational process — utilizing the Execution Hypothesis, the Stage 1 / Stage 2 AI Boundary, and the Dual Lens Diagnostic Instruments. This establishes the individual precondition the BDA assumes has already occurred.
 
-* [📖 Read Online](https://bda-framework.bc-ds.com/)
+* [📖 Read Online](https://frameworks.bc-ds.com/)
 * [💻 View Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/SDA_Framework_v1_0.md)
+* [📄 View/Download PDF](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/pdfs/SDA_Framework_v1_0.pdf)
 
 ---
 
