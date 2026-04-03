@@ -10,11 +10,11 @@
 The organizational layer of Decision Architecture. Governs the structural conditions under which consequential decisions are made — including the UCADE Cycle, the ADICE Matrix, Strategic Friction, and the Three Organizational Altitudes.
 
 * [📖 Read Online](https://bda-framework.bc-ds.com/)
-* [📄 Download PDF](#)
+* [💻 View Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_Framework_v2.md)
 
 **Appendices:**
-* [Appendix B — Organizational Translation Architecture](#)
-* [Appendix C — The Decisiontect™ Ecosystem](#)
+* [Appendix B — Organizational Translation Architecture (OCA)](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_v2_Appendix_B_OCA.md)
+* [Appendix C — The Decisiontect™ Ecosystem](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/BDA_Appendix_C_Decisiontect.md)
 
 ---
 
@@ -24,7 +24,7 @@ The organizational layer of Decision Architecture. Governs the structural condit
 The individual layer of Decision Architecture. Governs the moment of personal commitment before it enters any organizational process — utilizing the Execution Hypothesis, the Stage 1 / Stage 2 AI Boundary, and the Dual Lens Diagnostic Instruments. This establishes the individual precondition the BDA assumes has already occurred.
 
 * [📖 Read Online](https://bda-framework.bc-ds.com/)
-* [📄 Download PDF](#)
+* [💻 View Markdown Source](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/main/docs/SDA_Framework_v1_0.md)
 
 ---
 
