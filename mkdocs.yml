@@ -4,9 +4,9 @@ site_description: >
   Solo Decision Architecture (SDA v1.0) Frameworks by BC-DS
 site_author: Business Consultants for Digital Solutions, LLC
 
-repo_name: Frameworks-BDA-and_SDA
-repo_url: https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/tree/main
-edit_uri: blob/main/
+repo_name: BCDS-LLC/Frameworks-BDA-and-SDA
+repo_url: https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA
+edit_uri: edit/main/docs/
 
 theme:
   name: material
